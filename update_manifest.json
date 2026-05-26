@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0",
+  "download_url": "https://github.com/aishangbiancheng/StudyCheck/releases/download/v0.1.0/StudyCheck-student-win64.zip",
+  "changelog": "学生版首个发布包：整理 system/user_data 安装包结构，修复运行时路径，优化 Codex CLI 检测与修复入口。",
+  "force_update": false
+}
